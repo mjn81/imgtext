@@ -1,4 +1,4 @@
-<!-- og:image: https://github.com/mjn81/imgtext/raw/main/media/og-image.png -->
+<!-- og:image: https://raw.githubusercontent.com/mjn81/imgtext/main/media/og-image.png -->
 ![npm](https://img.shields.io/npm/v/imgtext)
 ![license](https://img.shields.io/npm/l/imgtext)
 ![downloads](https://img.shields.io/npm/dw/imgtext)
@@ -7,7 +7,8 @@
 
 > Write multilingual text (including RTL like Farsi, Arabic, Hebrew, Japanese) on images using Node.js + canvas + sharp.
 
-![imgtext banner](https://github.com/mjn81/imgtext/raw/main/media/og-image.png)
+![imgtext banner](https://raw.githubusercontent.com/mjn81/imgtext/main/media/og-image.png
+)
 
 ## ✨ Features
 
