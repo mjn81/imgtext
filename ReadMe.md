@@ -1,8 +1,13 @@
+<!-- og:image: https://github.com/mjn81/imgtext/raw/main/media/og-image.png -->
+![npm](https://img.shields.io/npm/v/imgtext)
+![license](https://img.shields.io/npm/l/imgtext)
+![downloads](https://img.shields.io/npm/dw/imgtext)
+
 # 🖼️ imgtext
 
 > Write multilingual text (including RTL like Farsi, Arabic, Hebrew, Japanese) on images using Node.js + canvas + sharp.
 
-![imgtext banner](/raw/main/media/og-image.png)
+![imgtext banner](https://github.com/mjn81/imgtext/raw/main/media/og-image.png)
 
 ## ✨ Features
 
@@ -69,11 +74,6 @@ Register a custom `.ttf` or `.otf` font for multilingual support (Farsi, Arabic,
 ```ts
 tryRegisterFont('./fonts/NotoSansCJKjp-Regular.otf', 'NotoCJK');
 ```
-
-## 🖼 Example Output
-
-![example](https://github.com/yourusername/imgtext/raw/main/media/example-output.png)
-
 ## 📄 License
 
-MIT © [Your Name](https://yourwebsite.com)
+MIT © [MJN](https://github.com/mjn81)

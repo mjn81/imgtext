@@ -6,15 +6,15 @@
   "author": {
     "name": "Mohammad.J Najafi",
     "email": "mjndev1831@gmail.com",
-    "url": "https://github.com/yourusername"
+    "url": "https://github.com/mjn81"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/imgtext.git"
+    "url": "git+https://github.com/mjn81/imgtext.git"
   },
-  "homepage": "https://github.com/yourusername/imgtext#readme",
+  "homepage": "https://github.com/mjn81/imgtext#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/imgtext/issues"
+    "url": "https://github.com/mjn81/imgtext/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -46,7 +46,8 @@
     }
   },
   "files": [
-    "dist"
+    "dist",
+    "assets"
   ],
   "scripts": {
     "build": "tsc",
