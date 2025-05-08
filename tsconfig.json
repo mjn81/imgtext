@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "module": "NodeNext", // Changed from CommonJS
+    "moduleResolution": "NodeNext", // Added for modern module resolution
+    "declaration": true,
+    "declarationMap": true, // Added for better source mapping for declarations
+    "sourceMap": true, // Added for better debugging
+    "outDir": "dist",
+    "rootDir": "src", // Added to specify the root directory of source files
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "types": ["node"]
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"] // Added to exclude build and dependency folders
+}

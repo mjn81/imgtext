@@ -1,0 +1,27 @@
+# Source files
+src/
+tsconfig.json
+*.tsbuildinfo
+
+# Test files
+test/
+__tests__/
+*.test.ts
+*.spec.ts
+test.js 
+
+# Config files
+.eslint*
+.prettier*
+jest.config.js
+babel.config.js
+
+# Raw assets not needed for the published package
+raw/
+
+# PNPM lockfile
+pnpm-lock.yaml
+
+# Git files
+.git
+.gitignore
